@@ -1,0 +1,13 @@
+body {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #df665a;
+}
+
+img {
+  display: block;
+  width: auto;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
